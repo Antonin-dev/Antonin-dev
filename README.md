@@ -28,10 +28,6 @@ Passionné par le développement web et mobile avec l'écosystème JavaScript mo
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antonin-dev&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonin-dev&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
 </div>
 
