@@ -21,44 +21,6 @@ Passionné par le développement web et mobile avec l'écosystème JavaScript mo
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 Mes statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antonin-dev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonin-dev&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Antonin-dev&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antonin-devR&theme=nord_dark" alt="GitHub Profile Summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Antonin-dev&theme=react-dark" alt="Contribution Graph" />
-</div>
-
-## 📈 Statistiques de contribution
-
-<details>
-  <summary>Voir plus de statistiques</summary>
-  
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Antonin-dev&theme=nord_dark" alt="Repos per Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Antonin-dev&theme=nord_dark" alt="Most Commit Language" />
-  </div>
-  
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Antonin-dev&theme=nord_dark" alt="Stats Card" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Antonin-dev&theme=nord_dark" alt="Productive Time" />
-  </div>
-</details>
-
 ## 📫 Comment me contacter
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonin-val/)
